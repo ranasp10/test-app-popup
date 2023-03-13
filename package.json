@@ -30,9 +30,7 @@
     "jquery": "^3.6.1",
     "regenerator-runtime": "^0.13.7",
     "showdown": "^2.1.0",
-    "urijs": "^1.19.11"
-  },
-  "devDependencies": {
+    "urijs": "^1.19.11",
     "@babel/core": "^7.13.10",
     "@babel/preset-env": "^7.12.11",
     "@babel/preset-typescript": "^7.13.0",
@@ -60,6 +58,7 @@
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "4.7.4"
   },
+  
   "prettier": "office-addin-prettier-config",
   "browserslist": [
     "ie 11"
